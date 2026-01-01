@@ -1,0 +1,5 @@
+{
+  "name": "Chat Your New Year Resolution Out!",
+  "description": "An intelligent, chat-based New Year's resolution architect. It guides users through reflection and ideation to craft meaningful, structured goals using Google Gemini.",
+  "requestFramePermissions": []
+}
